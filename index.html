@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🎨 Filter Fun</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://www.dukelearntoprogram.com/course1/common/js/cs101/SimpleImage.js"></script>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">🎨 Filter Fun</h1>
+
+    <canvas id="canvas"></canvas>
+
+    <div class="input-section">
+      <label>📁 Upload Image</label>
+      <input type="file" accept="image/*" id="imageUpload" onchange="loadImage()">
+    </div>
+
+    <div class="button-group">
+      <button class="action-btn" onclick="applyGrayscale()">🖤 Grayscale</button>
+      <button class="action-btn" onclick="applyRed()">🔴 Red</button>
+      <button class="action-btn" onclick="applyBlur()">💨 Blur</button>
+      <button class="action-btn outline" onclick="resetImage()">♻️ Reset</button>
+    </div>
+  </div>
+</body>
+</html>
