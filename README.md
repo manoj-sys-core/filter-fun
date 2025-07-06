@@ -2,7 +2,7 @@
 
 > A stylish and interactive web app to apply real-time image filters — Grayscale, Red Tint, and Blur — right in your browser using HTML5 Canvas and JavaScript.
 
-![Demo Screenshot](https://github.com/yourusername/filter-fun/blob/main/assets/demo.png)
+![Demo Screenshot](https://github.com/manoj-sys-core/filter-fun/blob/main/assets/demo.png)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 📸 Live Demo
 
-👉 [Click here to try it live](https://yourusername.github.io/filter-fun/)
+👉 [Click here to try it live](https://manoj-sys-core.github.io/filter-fun/)
 
 ---
 
@@ -47,7 +47,7 @@ filter-fun/
 
 | Original Upload | Grayscale | Red Tint | Blur |
 |-----------------|-----------|----------|------|
-| ![Upload](https://github.com/yourusername/filter-fun/blob/main/assets/upload.png) | ![Gray](https://github.com/yourusername/filter-fun/blob/main/assets/grayscale.png) | ![Red](https://github.com/yourusername/filter-fun/blob/main/assets/red.png) | ![Blur](https://github.com/yourusername/filter-fun/blob/main/assets/blur.png) |
+| ![Upload](https://github.com/manoj-sys-core/filter-fun/blob/main/assets/upload.png) | ![Gray](https://github.com/manoj-sys-core/filter-fun/blob/main/assets/gray.png) | ![Red](https://github.com/manoj-sys-core/filter-fun/blob/main/assets/red.png) | ![Blur](https://github.com/manoj-sys-core/filter-fun/blob/main/assets/blur.png) |
 
 ---
 
@@ -81,7 +81,7 @@ filter-fun/
 ## 👨‍💻 Author
 
 **Manoj S**  
-📧 [mnaojcs6317@gmail.com](mailto:mnaojcs6317@gmail.com)  
+📧 [manojcs6317@gmail.com](mailto:manojcs6317@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-s-corex7)  
 📸 [Instagram](https://www.instagram.com/white._.hatx7)
 
